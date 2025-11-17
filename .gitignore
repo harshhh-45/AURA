@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+
+# misc
+.DS_Store
+*.log
+*.lock
+
+# local env files
+.env*
+
+# vscode / editor
+.vscode/
+.idea/
+
+# firebase
+.firebase/
+.firebaserc
+
+# yarn / pnpm
+yarn.lock
+pnpm-lock.yaml
+
